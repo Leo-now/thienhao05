@@ -109,7 +109,7 @@
 
 <!-- github graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thienhao05&theme=react&count_private=true&bg_color=white" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-now&theme=react&count_private=true&bg_color=white" alt="GitHub Activity Graph" />
 </p>
 
 ## 🐍 Contribution Snake
